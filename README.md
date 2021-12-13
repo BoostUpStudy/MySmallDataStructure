@@ -35,18 +35,18 @@
 
 ## 재귀
 - 자기 자신을 호출하는 것을 의미한다.
-- General case일 때 자기 자신을 호출하고 Base case일 때 함수가 종료된다.
-- Base case를 향해 접근해야 재귀함수가 정상적으로 종료될 수 있다.
-- Recursion으로 표현할 수 있는 내용은 Iteration(for, while문)으로도 표현할 수 있다.
+- `General case`일 때 자기 자신을 호출하고 `Base case`일 때 함수가 종료된다.
+- `Base case`를 향해 접근해야 재귀함수가 정상적으로 종료될 수 있다.
+- `Recursion`으로 표현할 수 있는 내용은 `Iteration(for문, while문)`으로도 표현할 수 있다.
 
 <br />
 
 ## 링크드리스트
-- Data Field와 Link Field로 나뉘고, 두 Field를 합쳐서 Node Vertex라고 부른다.
+- `Data Field`와 `Link Field`로 나뉘고, 두 Field를 합쳐서 `Node Vertex`라고 부른다.
 - 요소를 추가하고 삭제할 때 데이터의 위치를 변경하지 않아도 된다.
-- Singly Linked List는 뒤로 돌아가지 못하기 때문에 이 단점을 해결하기 위해 Doubly Linked List(이중 연결 리스트)와 Circular Linked List(원형 연결 리스트)가 등장했다.
-- Doubly Linked List는 오늘날 Linked List의 대부분을 차지하고 있고, 뒤로 이동하면서 탐색이 가능하지만 추가적인 메모리가 필요하다.
-- Circular Linked List는 Singly Linked List에서 맨 뒤와 맨 앞을 연결만 하면 되기 때문에 구현하기 쉽지만 한칸 뒤로 이동하기 위해 모든 요소를 돌아야 하는 단점이 있다.
+- `Singly Linked List(단일 연결 리스트)`는 뒤로 돌아가지 못하기 때문에 이 단점을 해결하기 위해 `Doubly Linked List(이중 연결 리스트)`와 `Circular Linked List(원형 연결 리스트)`가 등장했다.
+- `Doubly Linked List`는 오늘날 Linked List의 대부분을 차지하고 있고, 뒤로 이동하면서 탐색이 가능하지만 추가적인 메모리가 필요하다.
+- `Circular Linked List`는 `Singly Linked List`에서 맨 뒤와 맨 앞을 연결만 하면 되기 때문에 구현하기 쉽지만 한칸 뒤로 이동하기 위해 모든 요소를 돌아야 하는 단점이 있다.
 
 <br />
 
