@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="https://github.com/BoostUpStudy/MySmallDataStructure">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BoostUpStudy/MySmallDataStructure&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
 # MySmallDataStructure
 자료구조 내용을 짧은 시간 내에 빠르게 정리할 수 있도록 하기 위한 레포지토리입니다!
 
